@@ -1,6 +1,4 @@
-Based on the images and the GitHub link you provided (`https://github.com/okonkwo348/Chef-B`), it appears that the "Chef-B" repository contains a project with a structure that includes HTML templates (e.g., `about.html`, `base.html`, `home.html`, `menu.html`) and a `templates/partials` directory, as well as a Python file (`manage.py`) and a SQLite database file (`db.sqlite3`). This suggests that "Chef-B" might be a web application, potentially a Django project (given the presence of `manage.py` and `db.sqlite3`, which are common in Django), possibly related to a chef or recipe management system.
 
-Since I can’t access the live repository or its contents directly, I’ll create a detailed and professional `README.md` file tailored to this project. I’ll make reasonable assumptions about its purpose (e.g., a backend-focused web app for managing recipes or a chef-related service) and structure it to highlight your IT background and backend development skills. Feel free to adjust the content based on the actual functionality of your project.
 
 Below is a comprehensive `README.md` file written in Markdown:
 
@@ -21,7 +19,7 @@ This project leverages my IT experience in system administration and problem-sol
 - **Backend Logic:** Implements core backend functionality using Django’s ORM and views.
 
 ## Technologies Used
-- **Programming Language:** Python 3.x
+- **Programming Language:** Python 3.x HTML 
 - **Framework:** Django
 - **Database:** SQLite3 (with `db.sqlite3` for local development)
 - **Templating:** HTML with Django templates
